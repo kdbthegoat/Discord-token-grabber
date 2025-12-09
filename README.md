@@ -1,2 +1,6 @@
 # Discord-token-grabber
-grabbs peoples tokens on discord
+This is the orginial file of Hezzy and open the build.exe and enter webhook then your file will be ready in documents youll also need license code after you enter the webhook downbelow
+                                    
+                                      LICENSE CODE: Hezzy123
+
+msg me at ds: kallethegoat
